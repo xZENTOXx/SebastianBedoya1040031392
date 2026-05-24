@@ -1,0 +1,2 @@
+#Sirve para escanear proyecto y detectar errores o malas prácticas.
+pysonar

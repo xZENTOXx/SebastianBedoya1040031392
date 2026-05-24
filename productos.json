@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "nombre": "Mouse",
+        "descripcion": "Mouse gamer",
+        "precio": 80000,
+        "cantidad": 5
+    },
+    {
+        "id": 1,
+        "nombre": "Teclado",
+        "descripcion": "Teclado mec\u00e1nico",
+        "precio": 150000,
+        "cantidad": 50
+    },
+    {
+        "id": 2,
+        "nombre": "TV",
+        "descripcion": "Televisor Samsung TelHorizon 4k",
+        "precio": 4999000,
+        "cantidad": 90
+    },
+    {
+        "id": 3,
+        "nombre": "Portatil GX WAR AMD RADEON 6080 GAMERGX",
+        "descripcion": "Portatil para gamers con una potente tarjeta gr\u00e1fica",
+        "precio": 9720500,
+        "cantidad": 30
+    }
+]
