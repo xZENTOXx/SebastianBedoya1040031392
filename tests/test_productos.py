@@ -41,7 +41,7 @@ class TestCRUD(unittest.TestCase):
         self.crud.crear_producto(self.producto)
 
         resultado = self.crud.actualizar_producto(
-            1,
+            0,
             {"precio": 100000}
         )
 
