@@ -1,2 +1,4 @@
-#Sirve para escanear proyecto y detectar errores o malas prácticas.
+# Dependencias del proyecto
+numpy==2.2.6
+pytest==8.3.5
 pysonar

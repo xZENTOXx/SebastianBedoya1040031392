@@ -1,0 +1,6 @@
+projectKey=crud_productos
+serverUrl=http://localhost:9000
+serverVersion=26.5.0.122743
+dashboardUrl=http://localhost:9000/dashboard?id=crud_productos
+ceTaskId=4e20cb22-3125-4fce-8354-6d4f44562e8e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=4e20cb22-3125-4fce-8354-6d4f44562e8e
