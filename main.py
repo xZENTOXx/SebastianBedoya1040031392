@@ -25,12 +25,12 @@ class Producto_CRUD:
 
         for p in productos:
             if p["id"] == producto["id"]:
-                return "Error: El producto que ingresaste ya existe"
+                return "Error: El producto ya existe"
 
         productos.append(producto)
         self.guardar_productos(productos)
 
-        return "El producto ha sido agregado correctamente"
+        return "Producto agregado correctamente"
 
     # Acá se LEE los productos
     def leer_productos(self):
@@ -46,7 +46,7 @@ class Producto_CRUD:
                 self.guardar_productos(productos)
                 return "Producto actualizado"
 
-        return "Error: Producto no se encuentra"
+        return "Error: Producto no encontrado"
 
     # DELETE
     def eliminar_producto(self, id_producto):
